@@ -2,14 +2,14 @@
 
 ## Trilha Conectar
 
-- [Guia estelar de programação](guia_estelar_programacao.md)
+- [Guia estelar de programação](./Conectar/guia_estelar_programacao.md)
 
-- [Computador, Software e Hardware](hardware_software.md)
+- [Computador, Software e Hardware](./Conectar/hardware_software.md)
 
-- [Internet, Roteadores e Servidores](internet.md)
+- [Internet, Roteadores e Servidores](./Conectar/internet.md)
 
-- [Sistemas Operacionais](sistemas_operacionais.md)
+- [Sistemas Operacionais](./Conectar/sistemas_operacionais.md)
 
-- [Linguagem de Programação](linguagens_programacao.md)
+- [Linguagem de Programação](./Conectar/linguagens_programacao.md)
 
-- [Tipos de Aplicações Web](aplicacoes_web.md)
+- [Tipos de Aplicações Web](./Conectar/aplicacoes_web.md)
